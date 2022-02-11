@@ -4,8 +4,7 @@ My Name is Caleb Kibet, an open science advocate, genomics researcher, and a men
 - 🔭 I’m currently working on regulatory genomics and the application of machine learning in insects
 - 🌱 I’m currently learning about how to build sustainable and impactful commmunities
 - 👯 I’m looking to collaborate on Open Science, Research Data Management, and Regulatory Genomics
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
+- 💬 Ask me about open science and bioinformatics 
 - 📫 How to reach me: Twitter @calkibet
 - ⚡ Fun fact: I Love Hiking and Mapping Trails
 
